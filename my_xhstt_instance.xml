@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Instance Name="MyXHSTTInstance"><Rooms><Room ID="1" Name="Room1" Capacity="30" /></Rooms><TimeSlots><TimeSlot ID="1" Day="1" Start="08:00:00" Duration="PT2H" /></TimeSlots><Events><Event ID="1" Name="Event1" Duration="PT1H" NumberOfStudents="20" Room="1" Teacher="Teacher1" Students="Student1, Student2" DistributionType="Distribute" /></Events></Instance>

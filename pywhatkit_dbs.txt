@@ -1,0 +1,16 @@
+--------------------
+Date: 23:8:2020
+Time: 0:0
+Phone number: +5511987692308
+Message: teste
+--------------------
+Date: 23:8:2020
+Time: 13:36
+Phone number: +5511987692308
+Message: teste
+--------------------
+Date: 23:8:2020
+Time: 13:38
+Phone number: +5512991649135
+Message: teste pycharm
+--------------------
